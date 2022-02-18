@@ -2,5 +2,6 @@
     <string name="app_name">GraphViewTest</string>
 
     <!-- activity_main.xml -->
-    <string name="main_compat_button_1">reset</string>
+    <string name="main_compat_button_1">reset data</string>
+    <string name="main_compat_button_2">append datapoint</string>
 </resources>
